@@ -28,9 +28,6 @@ class Array {
 	
 };
 
-// std::ostream & operator<<( std::ostream & o, Array const *obj);
-// std::ostream & operator<<( std::ostream & o, Array const obj);
-
 template <typename T>
 Array<T>::Array() {
 
